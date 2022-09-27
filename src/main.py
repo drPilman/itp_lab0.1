@@ -1,2 +1,1 @@
-print('Hello world!')
-print('V.2')
+print('this fix all your bugs')
